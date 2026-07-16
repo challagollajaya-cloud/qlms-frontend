@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_GATEWAY = 'http://localhost:8086';
+const API_GATEWAY = 'http://135.237.251.99:8080';
 
 const getHeaders = () => ({
     headers: {
