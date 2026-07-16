@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_GATEWAY = 'https://qlms-gateway-https.politegrass-1122600a.uksouth.azurecontainerapps.io';
+const API_GATEWAY = 'https://bottle-mesa-pda-radical.trycloudflare.com';
 
 const getHeaders = () => ({
     headers: {
