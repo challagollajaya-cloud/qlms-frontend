@@ -43,7 +43,6 @@ function Login() {
                 width: '400px',
                 boxShadow: '0 20px 60px rgba(0,0,0,0.3)'
             }}>
-                {/* Microsoft Logo Style */}
                 <div style={{ textAlign: 'center', marginBottom: '32px' }}>
                     <div style={{
                         display: 'inline-grid',
@@ -167,9 +166,9 @@ function Login() {
                     color: '#666'
                 }}>
                     <strong>Test Credentials:</strong><br />
-                    admin / AdminQlms@2024! (Admin)<br />
-                    researcher / ResearchQlms@2024! (Researcher)<br />
-                    labmanager / LabMgrQlms@2024! (Lab Manager)
+                    admin / admin123 (Admin)<br />
+                    researcher / research123 (Researcher)<br />
+                    labmanager / manager123 (Lab Manager)
                 </div>
             </div>
         </div>
