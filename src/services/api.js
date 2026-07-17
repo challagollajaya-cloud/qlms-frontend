@@ -1,6 +1,7 @@
 import axios from 'axios';
 
-const API_GATEWAY = 'https://bottle-mesa-pda-radical.trycloudflare.com';
+const API_GATEWAY = 'https://NEW-URL.trycloudflare.com';
+
 
 const getHeaders = () => ({
     headers: {
