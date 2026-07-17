@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_GATEWAY = 'https://NEW-URL.trycloudflare.com';
+const API_GATEWAY = 'https://jay-congress-christine-solve.trycloudflare.com';
 
 
 const getHeaders = () => ({
