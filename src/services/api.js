@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_GATEWAY = 'https://screens-buttons-structural-pst.trycloudflare.com';
+const API_GATEWAY = 'https://genome-dvds-before-nov.trycloudflare.com';
 
 
 const getHeaders = () => ({
