@@ -1,7 +1,6 @@
 import axios from 'axios';
 
-const API_GATEWAY = "https://jewel-determines-uncle-syracuse.trycloudflare.com";
-
+const API_GATEWAY = 'https://identifier-genres-screensavers-entry.trycloudflare.com';
 
 const getHeaders = () => ({
     headers: {
